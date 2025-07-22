@@ -26,9 +26,6 @@ Author: Jiwoo-Yang / Chang-Min An
 
 * 명령프롬프트 검색 및 관리자권한 실행
 
-  ![intro](./img/cmd.png)
-
-
 
 <img width="722" height="362" alt="" src="https://github.com/user-attachments/assets/d17e322f-b9c3-49e0-aa0b-7f01575bbde1" />
 
@@ -57,13 +54,13 @@ Author: Jiwoo-Yang / Chang-Min An
     Warning: Permanently added '[220.149.109.49]:7777' (ED25519) to the list of known hosts.
     ```
 
-![intro](./img/code_run.png)
+<img width="730" height="96" alt="" src="https://github.com/user-attachments/assets/5572c022-a93e-4834-90b5-18ab06cd4da0" />
 
 * 패스워드 입력**( PW: dlip )** 
 
   * **패스워드 입력 안보임 > 입력 후 Enter**
 
-![intro](./img/PW.png)
+<img width="719" height="136" alt="" src="https://github.com/user-attachments/assets/21a41805-f6f7-459f-9574-69356d6c9581" />
 
 ![intro](./img/connect_complet.png)
 
@@ -71,7 +68,7 @@ Author: Jiwoo-Yang / Chang-Min An
 
 * `ls` 명령어를 통해 데이터셋 리스트 확인
 
-![intro](./img/ls.png)
+<img width="733" height="318" alt="" src="https://github.com/user-attachments/assets/c4f13169-7b7b-4e14-806c-eace77549c91" />
 
 #### 4) 데이터셋 다운로드
 
@@ -87,7 +84,7 @@ Author: Jiwoo-Yang / Chang-Min An
   get TEAM8_Eye-Control_Dataset.zip C:\Users\wldn7\Downloads
   ```
 
-  ![intro](./img/download.png)
+  <img width="732" height="154" alt="" src="https://github.com/user-attachments/assets/853193cd-f80f-49f1-8408-20719cf214bc" />
   
-  ![intro](./img/result.png)
+  <img width="643" height="166" alt="Image" src="https://github.com/user-attachments/assets/81030f7c-73fe-4710-af14-d6f32b20b61d" />
 

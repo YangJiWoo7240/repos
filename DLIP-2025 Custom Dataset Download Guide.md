@@ -62,7 +62,7 @@ Author: Jiwoo-Yang / Chang-Min An
 
 <img width="719" height="136" alt="" src="https://github.com/user-attachments/assets/21a41805-f6f7-459f-9574-69356d6c9581" />
 
-![intro](./img/connect_complet.png)
+<img width="731" height="133" alt="" src="https://github.com/user-attachments/assets/a805f0ae-b6c7-4c69-a456-bf4283396a12" />
 
 #### 3) 데이터셋 리스트 확인
 
